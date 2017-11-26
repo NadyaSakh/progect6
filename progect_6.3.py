@@ -18,3 +18,4 @@ while k < total_number:
     print('Pokemon name: ',pokemon['name'])
     print('Pokemon ability: ',pokemon['abilities'][0]['ability']['name'])
     k += 1
+#
